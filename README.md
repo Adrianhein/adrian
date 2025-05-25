@@ -66,10 +66,10 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/YourGitHubUsername" alt="Adrianhein"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Mail=tinaunghein777@gmail.com"/>
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="tinaunghein777@gmail.com"/>
   </a>
 </div>
 
 #
-![Upbeat Code](https://img.shields.io/badge/Code-Upbeat%20Code-007ACC?logo=visualstudiocode&logoColor=white) [](https://www.upbeatcode.com)
+![Upbeat Code](https://img.shields.io/badge/Code-Upbeat%20Code-007ACC?logo=visualstudiocode&logoColor=white)[souce](https://www.upbeatcode.com)
 
