@@ -23,7 +23,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   <img src="https://img.shields.io/badge/Linux-supported-success?logo=linux" alt="Linux"/>
   <img src="https://img.shields.io/badge/Cloud-enabled-blue?logo=icloud" alt="Cloud"/>
   <img src="https://img.shields.io/badge/Red%20Hat-supported-red" alt="RedHat"/>
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
+  <img src="https://img.shields.io/badge/Ansible-automation-blue?logo=ansible&style=flat-square" alt="Ansible"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
