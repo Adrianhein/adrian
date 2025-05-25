@@ -46,11 +46,13 @@
 
 ### 🌱 I’m learning
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
-</div>
+![Cloud Technology](https://img.shields.io/badge/Cloud-Technology-0288D1?logo=googlecloud&logoColor=white)
+![Container Orchestration](https://img.shields.io/badge/Container-Orchestration-326CE5?logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline-FF4081?logo=jenkins&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-Container-222222?logo=redhat&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-Platform-E02D2D?logo=redhatopenshift&logoColor=white)
+
 
 
 ### 📫 How to reach me
