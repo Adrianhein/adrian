@@ -57,7 +57,7 @@
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/tin-aung-hein-39b59915b/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white&style=flat-square" alt="WhatsApp"/>
