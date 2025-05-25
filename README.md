@@ -39,7 +39,8 @@
 ![System Admin](https://img.shields.io/badge/Role-System%20Admin-0078D7?logo=gnubash&logoColor=white&style=flat)
 ![Middleware Engineer](https://img.shields.io/badge/Role-Middleware%20Engineer-FE7A16?logo=apachetomcat&logoColor=white&style=flat)
 ![Cloud Engineer](https://img.shields.io/badge/Cloud%20Engineer-AWS-orange?logo=amazonaws&logoColor=white)
-
+![Podman](https://img.shields.io/badge/Podman-Container-222222?logo=redhat&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell-Script-4EAA25?logo=gnubash&logoColor=white)
 
 ### 🌱 I’m learning
 
