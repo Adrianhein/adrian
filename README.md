@@ -70,10 +70,6 @@
   </a>
 </div>
 
-![WhatsApp"0654042612"](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white&style=flat-square)
-
-
-
 #
-![Upbeat Code](https://img.shields.io/badge/Code-Upbeat%20Code-007ACC?logo=visualstudiocode&logoColor=white)[url](https://www.upbeatcode.com)
+![Upbeat Code](https://img.shields.io/badge/Code-Upbeat%20Code-007ACC?logo=visualstudiocode&logoColor=white) [](https://www.upbeatcode.com)
 
