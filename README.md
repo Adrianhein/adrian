@@ -23,10 +23,7 @@
   <img src="https://img.shields.io/badge/Ansible-automation-blue?logo=ansible&style=flat-square" alt="Ansible"/>
   <img src="https://img.shields.io/badge/Jenkins-CI/CD-blue?logo=Jenkins&style=flat" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Shell-Script-4EAA25?logo=gnu-bash&style=flat" alt="Shell Script"/>
-  
-  <img src="https://img.shields.io/badge/Zabbix-Monitoring-B52B2B?logo=zabbix&style=fla" alt="Zabbix"/>
-  <img src="https://img.shields.io/badge/Cockpit-Dashboard-0066CC?logo=server&logoColor=white" alt="Cockpit"/>
-  
+   
   <img src="https://img.shields.io/badge/Cloud-enabled-blue?logo=icloud" alt="Cloud"/>
   <img src="https://img.shields.io/badge/OpenShift-platform-red?logo=RedHatOpenShift&style=flat" alt="OpenShift"/>
   <img src="https://img.shields.io/badge/Hypervisor-KVM-darkred?style=flat" alt="Kenel Base Virtualization"/>  
@@ -34,6 +31,8 @@
   <img src="https://img.shields.io/badge/Database-MariaDB-003545?logo=mariadb&logoColor=white" alt="Database-MariaDB"/>  
   
   <img src="https://img.shields.io/badge/Monitoring-Splunk-000000?logo=splunk&logoColor=white" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/Zabbix-Monitoring-B52B2B?logo=zabbix&style=fla" alt="Zabbix"/>
+  <img src="https://img.shields.io/badge/Cockpit-Dashboard-0066CC?logo=server&logoColor=white" alt="Cockpit"/>
 
   
 </div>
