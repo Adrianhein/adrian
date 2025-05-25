@@ -3,7 +3,7 @@
 
     Hi!
 
-    Welcome to my home page.
+    Welcome to my page.
 
     Thanks,
     Tin.
