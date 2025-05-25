@@ -38,7 +38,7 @@
 
 ![Cloud Engineer](https://img.shields.io/badge/Cloud%20Engineer-AWS-orange?logo=amazonaws&logoColor=white)
 - Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+
 
 ### 🌱 I’m learning
 
@@ -64,3 +64,5 @@
 </div>
 
 
+[Upbeat Code](https://www.upbeatcode.com)
+![Upbeat Code](https://img.shields.io/badge/Code-Upbeat%20Code-007ACC?logo=visualstudiocode&logoColor=white)
