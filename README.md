@@ -21,15 +21,26 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 <div display="flex">
     
   <img src="https://img.shields.io/badge/Linux-supported-success?logo=linux" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Cloud-enabled-blue?logo=icloud" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/CentOS-7/8/Stream-262577?logo=centos&style=flat" alt="CentOS"/>
+  <img src="https://img.shields.io/badge/Fedora-OS-294172?logo=fedora&style=flat" alt="Fedora"/>
   <img src="https://img.shields.io/badge/Red%20Hat-supported-red" alt="RedHat"/>
+  <img src="https://img.shields.io/badge/Ubuntu-20.04%2B-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/GitLab-CI/CD-FC6D26?logo=gitlab&style=flat" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/Zabbix-Monitoring-B52B2B?logo=zabbix&style=fla" alt="Zabbix"/>
+  <img src="https://img.shields.io/badge/Cloud-enabled-blue?logo=icloud" alt="Cloud"/>
   <img src="https://img.shields.io/badge/Ansible-automation-blue?logo=ansible&style=flat-square" alt="Ansible"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/OpenShift-platform-red?logo=RedHatOpenShift&style=flat" alt="OpenShift"/>
+  <img src="https://img.shields.io/badge/Jenkins-CI/CD-blue?logo=Jenkins&style=flat" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Shell-Script-4EAA25?logo=gnu-bash&style=flat" alt="Shell Script"/>
+  <img src="https://img.shields.io/badge/Hypervisor-KVM-darkred?style=flat" alt="Kenel Base Virtualization"/>
 </div>
 
 ### 🔭 I’m working on
 
+![Linux System Engineer](https://img.shields.io/badge/Role-Linux%20System%20Engineer-4EAA25?logo=linux&logoColor=white&style=flat)
+![System Admin](https://img.shields.io/badge/Role-System%20Admin-0078D7?logo=gnubash&logoColor=white&style=flat)
+![Middleware Engineer](https://img.shields.io/badge/Role-Middleware%20Engineer-FE7A16?logo=apachetomcat&logoColor=white&style=flat)
+[Cloud Engineer](https://img.shields.io/badge/Role-Cloud%20Engineer-0A66C2?logo=icloud&logoColor=white&style=flat)
 - Projects for freelance clients.
 - Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
 
