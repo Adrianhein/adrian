@@ -36,11 +36,8 @@
 ### 🔭 I’m working on
 
 ![Linux System Engineer](https://img.shields.io/badge/Role-Linux%20System%20Engineer-4EAA25?logo=linux&logoColor=white&style=flat)
-
 ![System Admin](https://img.shields.io/badge/Role-System%20Admin-0078D7?logo=gnubash&logoColor=white&style=flat)
-
 ![Middleware Engineer](https://img.shields.io/badge/Role-Middleware%20Engineer-FE7A16?logo=apachetomcat&logoColor=white&style=flat)
-
 ![Cloud Engineer](https://img.shields.io/badge/Cloud%20Engineer-AWS-orange?logo=amazonaws&logoColor=white)
 
 
