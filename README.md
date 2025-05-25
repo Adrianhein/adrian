@@ -65,6 +65,9 @@
   <a href="">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Mail=tinaunghein777@gmail.com"/>
+  </a>
 </div>
 
 #
