@@ -41,6 +41,9 @@
 ![Cloud Engineer](https://img.shields.io/badge/Cloud%20Engineer-AWS-orange?logo=amazonaws&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-Container-222222?logo=redhat&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell-Script-4EAA25?logo=gnubash&logoColor=white)
+![Docker Container](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white)
+![ITIL Practice](https://img.shields.io/badge/ITIL-Practice-0052CC?style=flat&logo=book&logoColor=white)
+
 
 ### 🌱 I’m learning
 
@@ -49,8 +52,10 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline-FF4081?logo=jenkins&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-Container-222222?logo=redhat&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-Platform-E02D2D?logo=redhatopenshift&logoColor=white)
-
+[![OpenShift Administration](https://img.shields.io/badge/OpenShift-Administration-E02D2D?logo=redhatopenshift&logoColor=white)](https://docs.openshift.com/container-platform/latest/admin_guide/overview.html)
+[![OpenShift Virtualization](https://img.shields.io/badge/OpenShift-Virtualization-E02D2D?logo=redhatopenshift&logoColor=white)](https://www.openshift.com/learn/topics/virtualization)
+[![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+![ITIL Practice](https://img.shields.io/badge/ITIL-Practice-0052CC?style=flat&logo=book&logoColor=white)
 
 
 ### 📫 How to reach me
