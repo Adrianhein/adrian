@@ -5,11 +5,11 @@
     Welcome to my page.
 
     Thanks,
-    Tin.
+    Tin Aung Hein.
 
 
 
-**I love working with**
+### I love working with
 
 <div display="flex">
     
@@ -33,7 +33,7 @@
   
 </div>
 
-### 🔭 I’m working on
+### I’m working on
 
 ![Linux System Engineer](https://img.shields.io/badge/Role-Linux%20System%20Engineer-4EAA25?logo=linux&logoColor=white&style=flat)
 ![System Admin](https://img.shields.io/badge/Role-System%20Admin-0078D7?logo=gnubash&logoColor=white&style=flat)
@@ -45,7 +45,7 @@
 ![ITIL Practice](https://img.shields.io/badge/ITIL-Practice-0052CC?style=flat&logo=book&logoColor=white)
 
 
-### 🌱 I’m learning
+### I’m learning
 
 ![Cloud Technology](https://img.shields.io/badge/Cloud-Technology-0288D1?logo=googlecloud&logoColor=white)
 ![Container Orchestration](https://img.shields.io/badge/Container-Orchestration-326CE5?logo=kubernetes&logoColor=white)
