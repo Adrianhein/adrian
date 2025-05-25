@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white&style=flat-square" alt="WhatsApp"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/YourGitHubUsername" alt="Adrianhein"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Mail=tinaunghein777@gmail.com"/>
