@@ -1,11 +1,12 @@
-# Tin (adrian)
+# adrian
 #
 
     Hi!
 
     Welcome to my home page.
 
-    Thanks.
+    Thanks,
+    Tin.
 
 #
 # Stay tune !
