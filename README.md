@@ -78,7 +78,7 @@
     <img src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="tinaunghein777@gmail.com"/>
   </a>
 </div>
-![email](https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=flat-square)
+
 
 
 [![Upbeat Code](https://img.shields.io/badge/Code-Upbeat%20Code-007ACC?logo=visualstudiocode&logoColor=white)](https://www.upbeatcode.com)
