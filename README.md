@@ -70,7 +70,7 @@
   </a>
 </div>
 
-![WhatsApp: +650654042612](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white&style=flat-square)
+![WhatsApp"0654042612"](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white&style=flat-square)
 
 
 
