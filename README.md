@@ -18,14 +18,14 @@
   <img src="https://img.shields.io/badge/Fedora-OS-294172?logo=fedora&style=flat" alt="Fedora"/>
   <img src="https://img.shields.io/badge/Red%20Hat-supported-red" alt="RedHat"/>
   <img src="https://img.shields.io/badge/Ubuntu-20.04%2B-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  
+  #
   <img src="https://img.shields.io/badge/GitLab-CI/CD-FC6D26?logo=gitlab&style=flat" alt="GitLab"/>
   <img src="https://img.shields.io/badge/Ansible-automation-blue?logo=ansible&style=flat-square" alt="Ansible"/>
   <img src="https://img.shields.io/badge/Jenkins-CI/CD-blue?logo=Jenkins&style=flat" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Shell-Script-4EAA25?logo=gnu-bash&style=flat" alt="Shell Script"/>
-  
+  #
   <img src="https://img.shields.io/badge/Zabbix-Monitoring-B52B2B?logo=zabbix&style=fla" alt="Zabbix"/>
-  
+  #
   <img src="https://img.shields.io/badge/Cloud-enabled-blue?logo=icloud" alt="Cloud"/>
   <img src="https://img.shields.io/badge/OpenShift-platform-red?logo=RedHatOpenShift&style=flat" alt="OpenShift"/>
   <img src="https://img.shields.io/badge/Hypervisor-KVM-darkred?style=flat" alt="Kenel Base Virtualization"/>  
@@ -69,5 +69,5 @@
 </div>
 
 #
-![Upbeat Code](https://img.shields.io/badge/Code-Upbeat%20Code-007ACC?logo=visualstudiocode&logoColor=white) [Upbeat Code](https://www.upbeatcode.com)
+![Upbeat Code](https://img.shields.io/badge/Code-Upbeat%20Code-007ACC?logo=visualstudiocode&logoColor=white)[url](https://www.upbeatcode.com)
 
