@@ -59,7 +59,7 @@
   <a href="https://www.linkedin.com/in/tin-aung-hein-39b59915b/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/qr/S4FXJZQEJ2PHE1">
+  <a href="https://github.com/Adrianhein/adrian/blob/main/img/qr_whatsapp.jpg">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white&style=flat-square" alt="WhatsApp"/>
   </a>
   <a href="">
