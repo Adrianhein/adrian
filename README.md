@@ -65,7 +65,11 @@
 
 ### Certificates of achievement:
 ![RHCSA](https://img.shields.io/badge/RHCSA-Certified-red)
+
 ![RHCE](https://img.shields.io/badge/RHCE-Certified-red)
+
+![Red Hat Certified Container Specialist](https://img.shields.io/badge/RedHat-Certified_Container_Specialist-red)
+
 
 ### To reach me:
 
