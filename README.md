@@ -65,7 +65,7 @@
 
 ### Certificates of achievement:
 ![RHCSA](https://img.shields.io/badge/RHCSA-Certified-red)
-
+![RHCE](https://img.shields.io/badge/RHCE-Certified-red)
 
 ### To reach me:
 
