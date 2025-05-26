@@ -83,3 +83,16 @@
 
 [![Upbeat Code](https://img.shields.io/badge/Code-Upbeat%20Code-007ACC?logo=visualstudiocode&logoColor=white)](https://www.upbeatcode.com)
 
+#
+
+# chess enthusiasm
+♖♘♗♕♔♗♘♖
+♙♙♙♙♙♙♙♙
+
+♟♟♟♟♟♟♟♟
+♜♞♝♛♚♝♞♜
+
+
+
+
+
