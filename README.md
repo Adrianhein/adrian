@@ -1,6 +1,6 @@
 # adrian
 
-![Tin Aung Hein](https://img.shields.io/badge/TIN%40AUNG%40HEIN-green)
+![Tin Aung Hein](https://img.shields.io/badge/TIN%20AUNG%10HEIN-green)
 
     Hi !
 
