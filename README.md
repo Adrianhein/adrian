@@ -70,6 +70,8 @@
 
 ![Red Hat Certified Container Specialist](https://img.shields.io/badge/RedHat-Certified_Container_Specialist-red)
 
+![LinkedIn Learning - SQL Programming](https://img.shields.io/badge/LinkedIn_Learning-SQL_Programming-blue)
+
 
 ### To reach me:
 
