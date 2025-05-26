@@ -86,12 +86,9 @@
 #
 
 # chess enthusiasm
-♖♘♗♕♔♗♘♖
-♙♙♙♙♙♙♙♙
-♟♟♟♟♟♟♟♟
-♜♞♝♛♚♝♞♜
+♖♘♗♕♔♗♘♖♙♙♙♙♙♙♙♙♟♟♟♟♟♟♟♟♜♞♝♛♚♝♞♜
 
-[♜](https://ratings.fide.com/profile/13023705)
+Tin Aung Hein [♜](https://ratings.fide.com/profile/13023705)
 
 
 
