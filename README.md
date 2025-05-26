@@ -1,5 +1,7 @@
 # adrian
 
+![Tin Aung Hein](https://img.shields.io/badge/Name-TIN%20AUNG%20HEIN-yellow)
+
     Hi !
 
     Welcome to my page.
