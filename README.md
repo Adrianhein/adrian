@@ -85,10 +85,12 @@
 
 #
 
-# chess enthusiasm
-♖♘♗♕♔♗♘♖♙♙♙♙♙♙♙♙♟♟♟♟♟♟♟♟♜♞♝♛♚♝♞♜
+# Chess Enthusiasm
+♖♘♗♕♔♙♟♛♚♝♞♜
 
-Tin Aung Hein [♜](https://ratings.fide.com/profile/13023705)
+FIDE ID 13023705
+
+FIDE PROFILE [♜](https://ratings.fide.com/profile/13023705)
 
 
 
