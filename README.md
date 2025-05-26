@@ -61,7 +61,7 @@
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 ![ITIL Practice](https://img.shields.io/badge/ITIL-Practice-0052CC?style=flat&logo=book&logoColor=white)
 
-![Chess Openings](https://img.shields.io/badge/Chess.com-user%2Fyourname-blue)
+♜![Chess Openings](https://img.shields.io/badge/Chess.com-user%2Fyourname-blue)
 
 ### To reach me:
 
