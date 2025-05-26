@@ -63,6 +63,10 @@
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 ![ITIL Practice](https://img.shields.io/badge/ITIL-Practice-0052CC?style=flat&logo=book&logoColor=white)
 
+### Certificates of achievement:
+![RHCSA](https://img.shields.io/badge/RHCSA-Certified-red)
+
+
 ### To reach me:
 
 <div display="flex">
@@ -83,7 +87,6 @@
 
 
 [![Upbeat Code](https://img.shields.io/badge/Code-Upbeat%20Code-007ACC?logo=visualstudiocode&logoColor=white)](https://www.upbeatcode.com)
-
 
 
 ### Chess Enthusiasm
