@@ -49,7 +49,7 @@
 ![ITIL Practice](https://img.shields.io/badge/ITIL-Practice-0052CC?style=flat&logo=book&logoColor=white)
 
 
-### What I continuoulsy acquire konwledge on ...
+### What I continuously acquire konwledge on ...
 
 ![Cloud Technology](https://img.shields.io/badge/Cloud-Technology-0288D1?logo=googlecloud&logoColor=white)
 ![Container Orchestration](https://img.shields.io/badge/Container-Orchestration-326CE5?logo=kubernetes&logoColor=white)
