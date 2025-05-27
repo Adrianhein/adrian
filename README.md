@@ -106,7 +106,7 @@ FIDE PROFILE [♜](https://ratings.fide.com/profile/13023705)
 
 <a lang='my-en' id='mcalr' href='https://yan9a.github.io/mmcal/'>Myanmar Calendar</a>
 
-![<a lang='my-en' id='mcalr' href='https://yan9a.github.io/mmcal/'>Myanmar Calendar</a>](https://img.shields.io/badge/Myanmar-1387_Tabaung_10-blue)
+![https://yan9a.github.io/mmcal](https://img.shields.io/badge/Myanmar-1387_Tabaung_10-blue)
 
 
 [![Upbeat Code](https://img.shields.io/badge/Code-Upbeat%20Code-007ACC?logo=visualstudiocode&logoColor=white)](https://www.upbeatcode.com)
