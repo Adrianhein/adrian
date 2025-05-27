@@ -106,10 +106,10 @@ FIDE PROFILE [♜](https://ratings.fide.com/profile/13023705)
 
 <div align="right">
 
-<small><small><small><small> www.upbeatcode.com </small></small></small></small>
-<br><small><small> <img src="https://img.shields.io/badge/Code-Upbeat%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="Upbeat Code"/></small></small>
-<br><small><small><small><small>www.github.com/Adrianhein </small></small></small></small>
-<br><small><small> <img src="https://img.shields.io/badge/GitHub-OpenSource-blue" alt="GithubProfile"/></small></small>
+<small><small><small><small><small><small> www.upbeatcode.com </small></small></small></small></small></small>
+<br><small><small> <img src="https://img.shields.io/badge/Code-Upbeat%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="Upbeat Code"/></small></small></small></small>
+<br><small><small><small><small><small><small>www.github.com/Adrianhein </small></small></small></small>
+<br><small><small><small><small> <img src="https://img.shields.io/badge/GitHub-OpenSource-blue" alt="GithubProfile"/></small></small></small></small>
 </div>
 
 ---
