@@ -106,7 +106,7 @@ FIDE PROFILE [♜](https://ratings.fide.com/profile/13023705)
 
 <div align="right">
 
-<small><small><small> code ref for this page:</small></small></small><br>
+<small><small><small> code lines ref from :</small></small></small><br>
 
 <br><img src="https://img.shields.io/badge/Code-Upbeat%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="Upbeat Code"/>
 
